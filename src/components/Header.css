@@ -1,0 +1,10 @@
+header {
+    margin: 20px 0px 0px 70px;
+}
+
+header a {
+    color: #ededed;
+    font-size: 3em;
+    font-weight: 650;
+    text-decoration: none;
+}
